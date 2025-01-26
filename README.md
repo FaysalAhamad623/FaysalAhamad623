@@ -1,6 +1,6 @@
 ![logo](https://github.com/FaysalAhamad623/FaysalAhamad623/blob/main/Images/git%20cover.png?raw=true)
 
-<h1>Hi there! 👋 I'm Md Naimur Rahman</h1>
+<h1>Hi there! 👋 I'm Md Faysal Ahamad</h1>
 <br>
 
 ## 🧑‍💻 About Me
@@ -83,9 +83,9 @@ I'm always eager to expand my knowledge and currently learning `Next.JS` .
 
 ## 📫 Let's Connect
 
-- **LinkedIn:** [Md Naimur Rahman](https://www.linkedin.com/in/FaysalAhamad623/)
-- **Facebook:** [Md Naimur Rahman](https://www.facebook.com/mdnaimurrahman2935/)
-- **Portfolio:** [Md Naimur Rahman](https://portfolio1.freelancernaimur.com/)
+- **LinkedIn:** [Md Faysal Ahamad](https://www.linkedin.com/in/FaysalAhamad623/)
+- **Facebook:** [Md Faysal Ahamad](https://www.facebook.com/mdnaimurrahman2935/)
+- **Portfolio:** [Md Faysal Ahamad](https://portfolio1.freelancernaimur.com/)
 - **Youtube:** [Coding Bangla](http://www.youtube.com/@codingbangla1)
 - **Email:** FaysalAhamad623@gmail.com
 
